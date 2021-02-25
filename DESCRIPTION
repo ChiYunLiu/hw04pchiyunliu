@@ -20,3 +20,5 @@ Imports:
     ggplot2,
     magrittr,
     tibble
+URL: https://github.com/ChiYunLiu/hw04pchiyunliu
+BugReports: https://github.com/ChiYunLiu/hw04pchiyunliu/issues
