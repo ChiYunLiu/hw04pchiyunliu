@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "cl0471a@american.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: Create a package with the recursive sequence function for STAT613 hw04.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
@@ -16,3 +16,7 @@ RoxygenNote: 7.1.1
 Suggests: 
     spelling
 Language: en-US
+Imports: 
+    ggplot2,
+    magrittr,
+    tibble
