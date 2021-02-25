@@ -1,4 +1,5 @@
 #' Calculate the recursive sequence n
+#'
 #' This is the recursive sequence. That is, element n is the sum of element n-1 and the difference between elements n-3 and n-2 divided by n.
 #' @param x vector containing the first three numeric elements of the sequence
 #' @param n element of the sequence
